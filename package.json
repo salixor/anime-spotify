@@ -1,0 +1,27 @@
+{
+  "name": "anime-spotify",
+  "version": "1.0.0",
+  "description": "Create a Spotify playlist of all OPs & EDs from anime you watched !",
+  "main": "index.js",
+  "dependencies": {
+    "anilist-node": "^1.1.0",
+    "jikan-node": "^1.2.0",
+    "kitsu": "^7.0.3",
+    "nedb": "^1.8.0",
+    "promise-throttle": "^1.0.0",
+    "request": "^2.88.0",
+    "spotify-web-api-node": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salixor/anime-spotify"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Kévin Cocchi",
+    "email": "kevin.cocchi@gmail.com"
+  },
+  "license": "MIT"
+}

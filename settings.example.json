@@ -1,0 +1,14 @@
+{
+    "spotify": {
+        "client": {
+            "id": "<application ID>",
+            "secret": "<client ID>"
+        },
+        "market": "US"
+    },
+    "databases": {
+        "animes": "databases/anime_db",
+        "userlists": "databases/userlists_db",
+        "songs": "databases/songs_db"
+    }
+}
